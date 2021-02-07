@@ -1,0 +1,16 @@
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\bin\Debug\net5.0\Work-5.exe
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\bin\Debug\net5.0\Work-5.deps.json
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\bin\Debug\net5.0\Work-5.runtimeconfig.json
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\bin\Debug\net5.0\Work-5.runtimeconfig.dev.json
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\bin\Debug\net5.0\Work-5.dll
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\bin\Debug\net5.0\ref\Work-5.dll
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\bin\Debug\net5.0\Work-5.pdb
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\obj\Debug\net5.0\Work-5.csprojAssemblyReference.cache
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\obj\Debug\net5.0\Work-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\obj\Debug\net5.0\Work-5.AssemblyInfoInputs.cache
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\obj\Debug\net5.0\Work-5.AssemblyInfo.cs
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\obj\Debug\net5.0\Work-5.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\obj\Debug\net5.0\Work-5.dll
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\obj\Debug\net5.0\ref\Work-5.dll
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\obj\Debug\net5.0\Work-5.pdb
+C:\Users\Emre\Documents\VSCode Works\Camp Works\Work-5\obj\Debug\net5.0\Work-5.genruntimeconfig.cache
