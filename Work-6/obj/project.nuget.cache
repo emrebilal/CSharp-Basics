@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p+0gEIrd8J2YXHtiuf8NdomNyJ7TKvm+yLCEpHLn1cScgQqlnk+kT9VRO6dg0UQVBYE5Yy6YzC7S7YdMCUp9HA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emre\\Documents\\VSCode Works\\Camp Works\\Work-6\\Work-6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emre\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "ProductName": "Msi Laptop",
+    "ProductCategory": "Notebook",
+    "Price": 800.0
+  },
+  {
+    "Id": 2,
+    "ProductName": "Asus Laptop",
+    "ProductCategory": "Notebook",
+    "Price": 900.0
+  },
+  {
+    "Id": 3,
+    "ProductName": "iPhone",
+    "ProductCategory": "Mobile",
+    "Price": 1000.0
+  }
+]
