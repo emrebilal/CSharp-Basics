@@ -1,2 +1,2 @@
-# CSharp-Works
+# CSharp-Basics
 C# studies
