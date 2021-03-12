@@ -1,0 +1,13 @@
+C:\Users\Engin\source\repos\CSharpCourse\Generics\bin\Debug\Generics.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Generics\bin\Debug\Generics.exe
+C:\Users\Engin\source\repos\CSharpCourse\Generics\bin\Debug\Generics.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Generics\obj\Debug\Generics.exe
+C:\Users\Engin\source\repos\CSharpCourse\Generics\obj\Debug\Generics.pdb
+C:\Users\Emre\source\repos\CSharpBasics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Emre\source\repos\CSharpBasics\Generics\bin\Debug\Generics.exe
+C:\Users\Emre\source\repos\CSharpBasics\Generics\bin\Debug\Generics.pdb
+C:\Users\Emre\source\repos\CSharpBasics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\CSharpBasics\Generics\obj\Debug\Generics.exe
+C:\Users\Emre\source\repos\CSharpBasics\Generics\obj\Debug\Generics.pdb

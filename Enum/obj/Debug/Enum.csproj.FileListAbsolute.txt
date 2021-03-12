@@ -1,0 +1,7 @@
+C:\Users\Emre\source\repos\CSharpBasics\Enum\bin\Debug\Enum.exe.config
+C:\Users\Emre\source\repos\CSharpBasics\Enum\bin\Debug\Enum.exe
+C:\Users\Emre\source\repos\CSharpBasics\Enum\bin\Debug\Enum.pdb
+C:\Users\Emre\source\repos\CSharpBasics\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\CSharpBasics\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\CSharpBasics\Enum\obj\Debug\Enum.exe
+C:\Users\Emre\source\repos\CSharpBasics\Enum\obj\Debug\Enum.pdb

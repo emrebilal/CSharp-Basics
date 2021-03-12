@@ -1,0 +1,14 @@
+C:\Users\Engin\source\repos\CSharpCourse\Classes\bin\Debug\Classes.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Classes\bin\Debug\Classes.exe
+C:\Users\Engin\source\repos\CSharpCourse\Classes\bin\Debug\Classes.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Classes\obj\Debug\Classes.exe
+C:\Users\Engin\source\repos\CSharpCourse\Classes\obj\Debug\Classes.pdb
+C:\Users\Emre\source\repos\CSharpBasics\Classes\bin\Debug\Classes.exe.config
+C:\Users\Emre\source\repos\CSharpBasics\Classes\bin\Debug\Classes.exe
+C:\Users\Emre\source\repos\CSharpBasics\Classes\bin\Debug\Classes.pdb
+C:\Users\Emre\source\repos\CSharpBasics\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\CSharpBasics\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\CSharpBasics\Classes\obj\Debug\Classes.exe
+C:\Users\Emre\source\repos\CSharpBasics\Classes\obj\Debug\Classes.pdb

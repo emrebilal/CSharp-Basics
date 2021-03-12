@@ -1,0 +1,14 @@
+C:\Users\Engin\source\repos\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Engin\source\repos\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Engin\source\repos\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Engin\source\repos\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.pdb
+C:\Users\Emre\Desktop\Dokumanlar\36_ Proje Kodları\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Emre\Desktop\Dokumanlar\36_ Proje Kodları\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Emre\Desktop\Dokumanlar\36_ Proje Kodları\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Emre\Desktop\Dokumanlar\36_ Proje Kodları\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\Dokumanlar\36_ Proje Kodları\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Dokumanlar\36_ Proje Kodları\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Emre\Desktop\Dokumanlar\36_ Proje Kodları\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.pdb

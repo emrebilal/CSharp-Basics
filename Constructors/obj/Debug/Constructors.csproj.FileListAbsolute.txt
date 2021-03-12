@@ -1,0 +1,14 @@
+C:\Users\Engin\source\repos\CSharpCourse\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Constructors\bin\Debug\Constructors.exe
+C:\Users\Engin\source\repos\CSharpCourse\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Constructors\obj\Debug\Constructors.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Constructors\obj\Debug\Constructors.exe
+C:\Users\Engin\source\repos\CSharpCourse\Constructors\obj\Debug\Constructors.pdb
+C:\Users\Emre\source\repos\CSharpBasics\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Emre\source\repos\CSharpBasics\Constructors\bin\Debug\Constructors.exe
+C:\Users\Emre\source\repos\CSharpBasics\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Emre\source\repos\CSharpBasics\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\CSharpBasics\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\CSharpBasics\Constructors\obj\Debug\Constructors.exe
+C:\Users\Emre\source\repos\CSharpBasics\Constructors\obj\Debug\Constructors.pdb

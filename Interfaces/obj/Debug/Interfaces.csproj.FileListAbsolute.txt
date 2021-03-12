@@ -1,0 +1,13 @@
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Emre\source\repos\CSharpBasics\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Emre\source\repos\CSharpBasics\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Emre\source\repos\CSharpBasics\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Emre\source\repos\CSharpBasics\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\CSharpBasics\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Emre\source\repos\CSharpBasics\Interfaces\obj\Debug\Interfaces.pdb

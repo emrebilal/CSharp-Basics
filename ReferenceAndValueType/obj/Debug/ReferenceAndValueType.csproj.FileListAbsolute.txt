@@ -1,0 +1,14 @@
+C:\Users\Engin\source\repos\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+C:\Users\Engin\source\repos\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+C:\Users\Engin\source\repos\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+C:\Users\Engin\source\repos\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb
+C:\Users\Emre\source\repos\CSharpBasics\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+C:\Users\Emre\source\repos\CSharpBasics\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+C:\Users\Emre\source\repos\CSharpBasics\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+C:\Users\Emre\source\repos\CSharpBasics\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\CSharpBasics\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\CSharpBasics\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+C:\Users\Emre\source\repos\CSharpBasics\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb

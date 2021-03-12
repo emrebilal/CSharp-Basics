@@ -1,0 +1,13 @@
+C:\Users\Engin\source\repos\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Engin\source\repos\CSharpCourse\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Engin\source\repos\CSharpCourse\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Emre\source\repos\CSharpBasics\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Emre\source\repos\CSharpBasics\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Emre\source\repos\CSharpBasics\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Emre\source\repos\CSharpBasics\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\CSharpBasics\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Emre\source\repos\CSharpBasics\Exceptions\obj\Debug\Exceptions.pdb

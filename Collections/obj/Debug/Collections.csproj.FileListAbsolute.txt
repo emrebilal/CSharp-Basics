@@ -1,0 +1,13 @@
+C:\Users\Engin\source\repos\CSharpCourse\Collections\bin\Debug\Collections.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Collections\bin\Debug\Collections.exe
+C:\Users\Engin\source\repos\CSharpCourse\Collections\bin\Debug\Collections.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Collections\obj\Debug\Collections.exe
+C:\Users\Engin\source\repos\CSharpCourse\Collections\obj\Debug\Collections.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\Users\Emre\source\repos\CSharpBasics\Collections\bin\Debug\Collections.exe.config
+C:\Users\Emre\source\repos\CSharpBasics\Collections\bin\Debug\Collections.exe
+C:\Users\Emre\source\repos\CSharpBasics\Collections\bin\Debug\Collections.pdb
+C:\Users\Emre\source\repos\CSharpBasics\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\CSharpBasics\Collections\obj\Debug\Collections.exe
+C:\Users\Emre\source\repos\CSharpBasics\Collections\obj\Debug\Collections.pdb
