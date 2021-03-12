@@ -1,2 +1,2 @@
-# CSharp-Basics
-C# studies
+# CSharp Basics
+These studies contains essentials of C#
